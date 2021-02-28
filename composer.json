@@ -1,5 +1,5 @@
 {
-    "name": "watson/rememberable",
+    "name": "musoftware/rememberable",
     "description": "Query caching for Laravel",
     "keywords": [
         "laravel",
